@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\PassCheck\Checl\bin\Debug\Checl.dll
+C:\Users\User\source\repos\PassCheck\Checl\bin\Debug\Checl.pdb
+C:\Users\User\source\repos\PassCheck\Checl\obj\Debug\Check.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PassCheck\Checl\obj\Debug\Check.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PassCheck\Checl\obj\Debug\Checl.dll
+C:\Users\User\source\repos\PassCheck\Checl\obj\Debug\Checl.pdb
